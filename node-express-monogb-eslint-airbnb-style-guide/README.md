@@ -223,8 +223,8 @@ app.get('/api', (req, res) => {
 
 আপনি যত কোড করতে থাকবেন তত দেখবেন যে আপনার কোড এর ভুল গুলো দেখাবে। এবং এটি আপনাকে বেস্ট প্র্যাকটিস শিখাবে।
 
-Here is the [GitHub Repo]() You can clone it and use it.
+Here is the [GitHub Repo](https://github.com/tushar-454/Project-Setup) You can clone it and use it.
 
-If you thing this article is helpful for you then please share it with your friends. Give me a GitHub Star [for this Repo]().
+If you thing this article is helpful for you then please share it with your friends. Give me a GitHub Star [for this Repo](https://github.com/tushar-454/Project-Setup).
 
 Thank you. Happy Coding. 🚀🚀🚀
