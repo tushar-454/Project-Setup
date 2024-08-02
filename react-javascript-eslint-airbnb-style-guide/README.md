@@ -129,6 +129,8 @@ yarn add -D prettier prettier-plugin-tailwindcss
 {
   "plugins": ["prettier-plugin-tailwindcss"], // most important for auto sort tailwind css class
   "singleQuote": true,
+  "jsxSingleQuote": true,
+  "tsxSingleQuote": true,
   "trailingComma": "all",
   "printWidth": 100,
   "tabWidth": 2,
